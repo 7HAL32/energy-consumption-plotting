@@ -1,0 +1,6 @@
+jupyterlab>=1.0.0
+jupyterlab-dash==0.1.0a3
+jupyter-server-proxy
+pandas
+dash
+plotly
